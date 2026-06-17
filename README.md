@@ -78,7 +78,7 @@ Jika Anda tidak ingin membuat akun baru, aplikasi ini mungkin sudah memiliki aku
 
 Jalankan server pengembangan Laravel:
 ```bash
-php artisan serve
+ php artisan serve --port=8000
 ```
 
 ### 7. Akses Aplikasi
